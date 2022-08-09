@@ -5,5 +5,6 @@ import com.dio.cloudparking.model.Parking;
 
 public class ModelMapper {
     public ParkingDTO map(Parking parking, Class<ParkingDTO> parkingDTOClass) {
+        return null;
     }
 }
