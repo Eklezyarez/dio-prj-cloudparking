@@ -1,5 +1,4 @@
 package one.digitalinnovation.parking.controller;
-
 import org.testcontainers.containers.PostgreSQLContainer;
 
 public abstract class AbstractContainerBase {
