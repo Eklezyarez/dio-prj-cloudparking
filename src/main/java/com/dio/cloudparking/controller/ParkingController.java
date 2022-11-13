@@ -65,5 +65,4 @@ public class ParkingController {
         Parking parking = parkingService.checkOut(id);
         return ResponseEntity.ok(parkingMapper.toParkingDTO(parking));
     }
-
 }
